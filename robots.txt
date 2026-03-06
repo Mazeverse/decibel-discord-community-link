@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.vercel.app/sitemap.xml
+Sitemap: https://decibel-discord-community-link.vercel.app/sitemap.xml
